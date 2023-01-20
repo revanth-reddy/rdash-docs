@@ -8,7 +8,7 @@ RDash - Quickstart Guide
 
 RDash is a recommendation system that captures the opportunities for pursuing external research funds through grants, contracts, and subcontracts based on the scholar’s research profile. RDash-Grants entails analyzing a massive set of solicitations and funding opportunities and selecting the most appropriate one or group of relevant grants by considering the scholar’s preferences and research profile.
 
-Like most of the projects, RDash consists of two main components :
+xRDash consists of two main components :
    - A webapp (frontend)
    - Backend
 This page will provide details on the backend component of RDash which uses Natural Language Processing for recommendation.
@@ -108,8 +108,6 @@ Below is the documentation for various python modules used in this project.
 .. include:: automatic_keyword_generator.rst
 
 .. include:: main_extractor.rst
-
-.. include:: recommend_scholars.rst
 
 .. include:: extract_proposals.rst
 
